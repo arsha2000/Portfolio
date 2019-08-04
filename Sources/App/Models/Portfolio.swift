@@ -11,6 +11,7 @@ import Vapor
 struct Portfolio: Codable {
     
     let fullName: String
+    let avatarImageName: String
     let job: String
     let hometown: String
     let email: String

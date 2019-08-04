@@ -1,0 +1,47 @@
+{ 
+    "fullName" : "Arsha Hassas",
+    "job" : "iOS Developer",
+    "hometown" : "Denizli, Turkey",
+    "email" : "mohammadhasas@gmail.com",
+    "number" : "+905538556999",
+    "skills" : [
+        {
+            "name" : "Swift",
+            "measure": 1
+        },
+        {
+            "name" : "Xcode",
+            "measure" : 0.9
+        },
+        {
+            "name" : "Realm Database",
+            "measure" : 0.4
+        },
+        {
+            "name" : "Firebase",
+            "measure" : 0.2
+        }
+    ],
+    "languages" : [
+        {
+            "name" : "Persian",
+            "measure" : 1
+        },
+        {
+            "name" : "English",
+            "measure": 0.85
+        },
+        {
+            "name" : "Turkish",
+            "measure" : 0.45 
+        }
+    ],
+    "educations": [
+        {
+            "schoolName" : "Pamukkale School of Business",
+            "dateDescription" : "2018 - ...",
+            "description" : "Bachelor Degree"
+        }
+    ]
+    
+}

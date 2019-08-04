@@ -49,9 +49,14 @@
             "description" : "CS50"
         },
         {
-            "schoolName" : "Stanford iOS Development Course",
+            "schoolName" : "Stanford Online Course",
             "dateDescription" : "2017",
-            "description" : "iTunes U"
+            "description" : "iOS Development"
+        },
+        {
+            "schoolName" : "Udacity",
+            "dateDescription" : "2018",
+            "description" : "iOS Development"
         }
     ]
     

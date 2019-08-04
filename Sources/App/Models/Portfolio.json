@@ -42,6 +42,16 @@
             "schoolName" : "Pamukkale School of Business",
             "dateDescription" : "2018 - ...",
             "description" : "Bachelor Degree"
+        },
+        {
+            "schoolName" : "HarvardX",
+            "dateDescription" : "2017",
+            "description" : "CS50"
+        },
+        {
+            "schoolName" : "Stanford iOS Development Course",
+            "dateDescription" : "2017",
+            "description" : "iTunes U"
         }
     ]
     

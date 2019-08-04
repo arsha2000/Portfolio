@@ -9,8 +9,8 @@ final class PortfolioController: RouteCollection {
     }
     
     func portfolioView(_ req: Request) throws -> Future<View> {
-        try portfolio(req).flatMap { (portfolio) in
-            try req.view().render("Portfolio-template", portfolio)
+        return try portfolio(req).flatMap { (portfolio) in
+            return try req.view().render("Portfolio-template", portfolio)
         }
     }
     
